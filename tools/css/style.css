@@ -1,0 +1,21 @@
+body{
+	font-family: Verdana;
+	margin:0px;
+}
+
+#contenedorPeticiones{
+	padding: 12px;
+	background: #eee;
+	margin:1.2em;
+	border-radius: 10px;
+}
+
+#output{
+	background: white;
+	width:  90%;
+	height: 150px;
+}
+
+#textOutPut{
+	padding: 15px;
+}
